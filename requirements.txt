@@ -1,0 +1,23 @@
+# AICE Professional Course Dependencies
+# Core data science and machine learning packages
+numpy>=1.19.5
+pandas
+matplotlib
+scikit-learn
+
+# Natural Language Processing
+nltk
+konlpy
+transformers
+tensorflow>=2.4.0
+
+# Web scraping and HTML parsing
+beautifulsoup4>=4.13.0
+
+# Jupyter notebook utilities
+openpyxl
+gensim
+
+# Additional utilities
+urllib3
+requests
